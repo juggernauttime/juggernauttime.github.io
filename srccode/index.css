@@ -1,0 +1,29 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  font-family: monospace;
+}
+
+li {
+  font-family: monospace;
+}
+
+h3 {
+  font-family: monospace;
+  font-style: italic;
+}
+
+a {
+  font-style: italic;
+  color: rgb(255, 0, 0);
+}
